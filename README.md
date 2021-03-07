@@ -1,5 +1,5 @@
 # CSC365_Final
-
+This is the final lab CSC 365
 ## Team Members
 Lemar Popal, Julian Davis, Salman Wahajat, Rutu Samai
 

@@ -1,7 +1,7 @@
 # CSC365_Final
 
 ## Team Members
-Lemar Popal, Julian Davis, Salman Wahajat, rsamai
+Lemar Popal, Julian Davis, Salman Wahajat, Rutu Samai
 
 ## Database Used
 jdavi104
